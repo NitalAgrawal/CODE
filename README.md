@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/NitalAgrawal/CODE/tree/master/2678-number-of-senior-citizens) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/NitalAgrawal/CODE/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/NitalAgrawal/CODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NitalAgrawal/CODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/NitalAgrawal/CODE/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NitalAgrawal/CODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Number Theory
 |  |
 | ------- |
