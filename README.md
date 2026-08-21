@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NitalAgrawal/CODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0946-validate-stack-sequences](https://github.com/NitalAgrawal/CODE/tree/master/0946-validate-stack-sequences) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NitalAgrawal/CODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitalAgrawal/CODE/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/NitalAgrawal/CODE/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -59,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NitalAgrawal/CODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0844-backspace-string-compare](https://github.com/NitalAgrawal/CODE/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/NitalAgrawal/CODE/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NitalAgrawal/CODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/NitalAgrawal/CODE/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/NitalAgrawal/CODE/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/NitalAgrawal/CODE/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/NitalAgrawal/CODE/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
