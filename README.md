@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NitalAgrawal/CODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/NitalAgrawal/CODE/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NitalAgrawal/CODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NitalAgrawal/CODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Number Theory
 |  |
