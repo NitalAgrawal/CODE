@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/NitalAgrawal/CODE/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/NitalAgrawal/CODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NitalAgrawal/CODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [4020-elevator-requests-i](https://github.com/NitalAgrawal/CODE/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/NitalAgrawal/CODE/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/NitalAgrawal/CODE/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/NitalAgrawal/CODE/tree/master/2390-removing-stars-from-a-string) |
+| [4020-elevator-requests-i](https://github.com/NitalAgrawal/CODE/tree/master/4020-elevator-requests-i) |
 <!---LeetCode Topics End-->
