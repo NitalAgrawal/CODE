@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/NitalAgrawal/CODE/tree/master/0125-valid-palindrome) |
 | [0844-backspace-string-compare](https://github.com/NitalAgrawal/CODE/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NitalAgrawal/CODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NitalAgrawal/CODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/NitalAgrawal/CODE/tree/master/0125-valid-palindrome) |
 | [0844-backspace-string-compare](https://github.com/NitalAgrawal/CODE/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
