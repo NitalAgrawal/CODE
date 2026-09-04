@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/NitalAgrawal/CODE/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/NitalAgrawal/CODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NitalAgrawal/CODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3903-smallest-stable-index-i](https://github.com/NitalAgrawal/CODE/tree/master/3903-smallest-stable-index-i) |
 | [4020-elevator-requests-i](https://github.com/NitalAgrawal/CODE/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/NitalAgrawal/CODE/tree/master/2094-finding-3-digit-even-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/NitalAgrawal/CODE/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
