@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/NitalAgrawal/CODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/NitalAgrawal/CODE/tree/master/0283-move-zeroes) |
 | [0946-validate-stack-sequences](https://github.com/NitalAgrawal/CODE/tree/master/0946-validate-stack-sequences) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NitalAgrawal/CODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NitalAgrawal/CODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NitalAgrawal/CODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/NitalAgrawal/CODE/tree/master/1816-truncate-sentence) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NitalAgrawal/CODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2094-finding-3-digit-even-numbers](https://github.com/NitalAgrawal/CODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/NitalAgrawal/CODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/NitalAgrawal/CODE/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/NitalAgrawal/CODE/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/NitalAgrawal/CODE/tree/master/0844-backspace-string-compare) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NitalAgrawal/CODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/NitalAgrawal/CODE/tree/master/3903-smallest-stable-index-i) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NitalAgrawal/CODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
