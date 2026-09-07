@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/NitalAgrawal/CODE/tree/master/0242-valid-anagram) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NitalAgrawal/CODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitalAgrawal/CODE/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/NitalAgrawal/CODE/tree/master/2094-finding-3-digit-even-numbers) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/NitalAgrawal/CODE/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/NitalAgrawal/CODE/tree/master/0242-valid-anagram) |
 | [0844-backspace-string-compare](https://github.com/NitalAgrawal/CODE/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NitalAgrawal/CODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NitalAgrawal/CODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NitalAgrawal/CODE/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/NitalAgrawal/CODE/tree/master/0242-valid-anagram) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NitalAgrawal/CODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2094-finding-3-digit-even-numbers](https://github.com/NitalAgrawal/CODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/NitalAgrawal/CODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
