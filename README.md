@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/NitalAgrawal/CODE/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NitalAgrawal/CODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/NitalAgrawal/CODE/tree/master/0283-move-zeroes) |
 | [0946-validate-stack-sequences](https://github.com/NitalAgrawal/CODE/tree/master/0946-validate-stack-sequences) |
@@ -70,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/NitalAgrawal/CODE/tree/master/0075-sort-colors) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NitalAgrawal/CODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2094-finding-3-digit-even-numbers](https://github.com/NitalAgrawal/CODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/NitalAgrawal/CODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/NitalAgrawal/CODE/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/NitalAgrawal/CODE/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/NitalAgrawal/CODE/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/NitalAgrawal/CODE/tree/master/0844-backspace-string-compare) |
@@ -125,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/NitalAgrawal/CODE/tree/master/3477-fruits-into-baskets-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/NitalAgrawal/CODE/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/NitalAgrawal/CODE/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
