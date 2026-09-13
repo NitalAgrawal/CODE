@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NitalAgrawal/CODE/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NitalAgrawal/CODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/NitalAgrawal/CODE/tree/master/0283-move-zeroes) |
+| [0835-image-overlap](https://github.com/NitalAgrawal/CODE/tree/master/0835-image-overlap) |
 | [0946-validate-stack-sequences](https://github.com/NitalAgrawal/CODE/tree/master/0946-validate-stack-sequences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NitalAgrawal/CODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NitalAgrawal/CODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NitalAgrawal/CODE/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/NitalAgrawal/CODE/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
