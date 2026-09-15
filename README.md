@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/NitalAgrawal/CODE/tree/master/0946-validate-stack-sequences) |
 | [1200-minimum-absolute-difference](https://github.com/NitalAgrawal/CODE/tree/master/1200-minimum-absolute-difference) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NitalAgrawal/CODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/NitalAgrawal/CODE/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NitalAgrawal/CODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NitalAgrawal/CODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/NitalAgrawal/CODE/tree/master/1816-truncate-sentence) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NitalAgrawal/CODE/tree/master/0242-valid-anagram) |
 | [1200-minimum-absolute-difference](https://github.com/NitalAgrawal/CODE/tree/master/1200-minimum-absolute-difference) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NitalAgrawal/CODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/NitalAgrawal/CODE/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2094-finding-3-digit-even-numbers](https://github.com/NitalAgrawal/CODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/NitalAgrawal/CODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
