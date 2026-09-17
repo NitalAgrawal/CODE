@@ -8,6 +8,7 @@ public:
             }
             else if(command[i]== '(' && command[i+1]== ')'){
                 ans+='o';
+                i++;
             }
             else{
                 continue;
