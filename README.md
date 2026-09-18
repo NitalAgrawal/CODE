@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/NitalAgrawal/CODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/NitalAgrawal/CODE/tree/master/0283-move-zeroes) |
 | [0835-image-overlap](https://github.com/NitalAgrawal/CODE/tree/master/0835-image-overlap) |
+| [0942-di-string-match](https://github.com/NitalAgrawal/CODE/tree/master/0942-di-string-match) |
 | [0946-validate-stack-sequences](https://github.com/NitalAgrawal/CODE/tree/master/0946-validate-stack-sequences) |
 | [1200-minimum-absolute-difference](https://github.com/NitalAgrawal/CODE/tree/master/1200-minimum-absolute-difference) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NitalAgrawal/CODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NitalAgrawal/CODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NitalAgrawal/CODE/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/NitalAgrawal/CODE/tree/master/0844-backspace-string-compare) |
+| [0942-di-string-match](https://github.com/NitalAgrawal/CODE/tree/master/0942-di-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NitalAgrawal/CODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/NitalAgrawal/CODE/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NitalAgrawal/CODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0942-di-string-match](https://github.com/NitalAgrawal/CODE/tree/master/0942-di-string-match) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/NitalAgrawal/CODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/NitalAgrawal/CODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NitalAgrawal/CODE/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/NitalAgrawal/CODE/tree/master/0844-backspace-string-compare) |
+| [0942-di-string-match](https://github.com/NitalAgrawal/CODE/tree/master/0942-di-string-match) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NitalAgrawal/CODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/NitalAgrawal/CODE/tree/master/1768-merge-strings-alternately) |
 ## Stack
