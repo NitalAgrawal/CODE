@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/NitalAgrawal/CODE/tree/master/0242-valid-anagram) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NitalAgrawal/CODE/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/NitalAgrawal/CODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NitalAgrawal/CODE/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NitalAgrawal/CODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/NitalAgrawal/CODE/tree/master/2094-finding-3-digit-even-numbers) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/NitalAgrawal/CODE/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/NitalAgrawal/CODE/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/NitalAgrawal/CODE/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/NitalAgrawal/CODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/NitalAgrawal/CODE/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NitalAgrawal/CODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NitalAgrawal/CODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
