@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/NitalAgrawal/CODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3019-number-of-changing-keys](https://github.com/NitalAgrawal/CODE/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/NitalAgrawal/CODE/tree/master/3174-clear-digits) |
+| [3340-check-balanced-string](https://github.com/NitalAgrawal/CODE/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/NitalAgrawal/CODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NitalAgrawal/CODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/NitalAgrawal/CODE/tree/master/3794-reverse-string-prefix) |
