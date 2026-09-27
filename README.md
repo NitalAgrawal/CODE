@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/NitalAgrawal/CODE/tree/master/3019-number-of-changing-keys) |
 | [3174-clear-digits](https://github.com/NitalAgrawal/CODE/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/NitalAgrawal/CODE/tree/master/3340-check-balanced-string) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NitalAgrawal/CODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/NitalAgrawal/CODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NitalAgrawal/CODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/NitalAgrawal/CODE/tree/master/3794-reverse-string-prefix) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NitalAgrawal/CODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NitalAgrawal/CODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NitalAgrawal/CODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/NitalAgrawal/CODE/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NitalAgrawal/CODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NitalAgrawal/CODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/NitalAgrawal/CODE/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Greedy
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/NitalAgrawal/CODE/tree/master/2390-removing-stars-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/NitalAgrawal/CODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3174-clear-digits](https://github.com/NitalAgrawal/CODE/tree/master/3174-clear-digits) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NitalAgrawal/CODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/NitalAgrawal/CODE/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/NitalAgrawal/CODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/NitalAgrawal/CODE/tree/master/3894-traffic-signal-color) |
@@ -227,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/NitalAgrawal/CODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NitalAgrawal/CODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
