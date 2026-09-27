@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/NitalAgrawal/CODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NitalAgrawal/CODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/NitalAgrawal/CODE/tree/master/3794-reverse-string-prefix) |
+| [3813-vowel-consonant-score](https://github.com/NitalAgrawal/CODE/tree/master/3813-vowel-consonant-score) |
 | [3884-first-matching-character-from-both-ends](https://github.com/NitalAgrawal/CODE/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/NitalAgrawal/CODE/tree/master/3894-traffic-signal-color) |
 ## Math
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NitalAgrawal/CODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/NitalAgrawal/CODE/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/NitalAgrawal/CODE/tree/master/3498-reverse-degree-of-a-string) |
+| [3813-vowel-consonant-score](https://github.com/NitalAgrawal/CODE/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/NitalAgrawal/CODE/tree/master/3894-traffic-signal-color) |
 | [4020-elevator-requests-i](https://github.com/NitalAgrawal/CODE/tree/master/4020-elevator-requests-i) |
 ## Bit Manipulation
