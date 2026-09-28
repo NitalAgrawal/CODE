@@ -1,19 +1,21 @@
 class Solution {
 public:
     int maxDepth(string s) {
+        int ans=INT_MIN;
+
         int count=0;
-        int ans= INT_MIN;
-          for(int i=0;i<s.length();i++){
-              if(s[i] == '('){
+        for(int i=0;i<s.length();i++){
+           ans=max(ans,count);
+            if(s[i]=='('){
                 count++;
-              }
-              if(s[i] == ')'){
+                
+            }
+            else if(s[i]==')'){
                 count--;
-              }
-              
-                ans = max(ans,count);
-              
-          }
-     return ans;
+            }
+
+
+        }
+        return ans;
     }
 };
