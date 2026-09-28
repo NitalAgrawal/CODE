@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/NitalAgrawal/CODE/tree/master/2670-find-the-distinct-difference-array) |
 | [2716-minimize-string-length](https://github.com/NitalAgrawal/CODE/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/NitalAgrawal/CODE/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3146-permutation-difference-between-two-strings](https://github.com/NitalAgrawal/CODE/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/NitalAgrawal/CODE/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/NitalAgrawal/CODE/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NitalAgrawal/CODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/NitalAgrawal/CODE/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/NitalAgrawal/CODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3019-number-of-changing-keys](https://github.com/NitalAgrawal/CODE/tree/master/3019-number-of-changing-keys) |
+| [3146-permutation-difference-between-two-strings](https://github.com/NitalAgrawal/CODE/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/NitalAgrawal/CODE/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/NitalAgrawal/CODE/tree/master/3340-check-balanced-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NitalAgrawal/CODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
