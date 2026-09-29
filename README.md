@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NitalAgrawal/CODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NitalAgrawal/CODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/NitalAgrawal/CODE/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2278-percentage-of-letter-in-string](https://github.com/NitalAgrawal/CODE/tree/master/2278-percentage-of-letter-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/NitalAgrawal/CODE/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/NitalAgrawal/CODE/tree/master/2678-number-of-senior-citizens) |
 | [2716-minimize-string-length](https://github.com/NitalAgrawal/CODE/tree/master/2716-minimize-string-length) |
