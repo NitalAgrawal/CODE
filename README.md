@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-replace-all-digits-with-characters](https://github.com/NitalAgrawal/CODE/tree/master/1844-replace-all-digits-with-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/NitalAgrawal/CODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NitalAgrawal/CODE/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/NitalAgrawal/CODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2000-reverse-prefix-of-word](https://github.com/NitalAgrawal/CODE/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NitalAgrawal/CODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/NitalAgrawal/CODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/NitalAgrawal/CODE/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/NitalAgrawal/CODE/tree/master/0946-validate-stack-sequences) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/NitalAgrawal/CODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2390-removing-stars-from-a-string](https://github.com/NitalAgrawal/CODE/tree/master/2390-removing-stars-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/NitalAgrawal/CODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3174-clear-digits](https://github.com/NitalAgrawal/CODE/tree/master/3174-clear-digits) |
