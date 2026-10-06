@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/NitalAgrawal/CODE/tree/master/2670-find-the-distinct-difference-array) |
 | [2678-number-of-senior-citizens](https://github.com/NitalAgrawal/CODE/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/NitalAgrawal/CODE/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/NitalAgrawal/CODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/NitalAgrawal/CODE/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/NitalAgrawal/CODE/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/NitalAgrawal/CODE/tree/master/3477-fruits-into-baskets-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/NitalAgrawal/CODE/tree/master/2670-find-the-distinct-difference-array) |
 | [2716-minimize-string-length](https://github.com/NitalAgrawal/CODE/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/NitalAgrawal/CODE/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/NitalAgrawal/CODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3146-permutation-difference-between-two-strings](https://github.com/NitalAgrawal/CODE/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/NitalAgrawal/CODE/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/NitalAgrawal/CODE/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NitalAgrawal/CODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2965-find-missing-and-repeated-values](https://github.com/NitalAgrawal/CODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NitalAgrawal/CODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NitalAgrawal/CODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/NitalAgrawal/CODE/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/NitalAgrawal/CODE/tree/master/0835-image-overlap) |
+| [2965-find-missing-and-repeated-values](https://github.com/NitalAgrawal/CODE/tree/master/2965-find-missing-and-repeated-values) |
 ## String Matching
 |  |
 | ------- |
