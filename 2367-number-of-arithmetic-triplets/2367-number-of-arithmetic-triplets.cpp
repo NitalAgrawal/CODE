@@ -2,19 +2,28 @@ class Solution {
 public:
     int arithmeticTriplets(vector<int>& nums, int diff) {
         int count = 0;
-        for(int i=0;i<nums.size();i++){
-            for(int j=i+1;j<nums.size();j++){
-                for(int k=j+1;k<nums.size();k++){
-       
 
+        for (int i = 0; i < nums.size(); i++) {
+            int l = i + 1;
+            int r = nums.size() - 1;
 
-              if((nums[j] - nums[i] == diff) && (nums[k] - nums[j] == diff)){
-                count++;
-              }
+            while (l < r) {
 
+                if ((nums[l] - nums[i] == diff) &&
+                    (nums[r] - nums[l] == diff)) {
+                    count++;
+                    l++;
+                    r--;
+                }
+                else if (nums[l] - nums[i] < diff) {
+                    l++;
+                }
+                else {
+                    r--;
                 }
             }
         }
+
         return count;
     }
 };
