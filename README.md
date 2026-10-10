@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/NitalAgrawal/CODE/tree/master/0942-di-string-match) |
 | [0946-validate-stack-sequences](https://github.com/NitalAgrawal/CODE/tree/master/0946-validate-stack-sequences) |
 | [1002-find-common-characters](https://github.com/NitalAgrawal/CODE/tree/master/1002-find-common-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/NitalAgrawal/CODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/NitalAgrawal/CODE/tree/master/1200-minimum-absolute-difference) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NitalAgrawal/CODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-string-matching-in-an-array](https://github.com/NitalAgrawal/CODE/tree/master/1408-string-matching-in-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NitalAgrawal/CODE/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/NitalAgrawal/CODE/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/NitalAgrawal/CODE/tree/master/1002-find-common-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/NitalAgrawal/CODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/NitalAgrawal/CODE/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NitalAgrawal/CODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/NitalAgrawal/CODE/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/NitalAgrawal/CODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NitalAgrawal/CODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/NitalAgrawal/CODE/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/NitalAgrawal/CODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/NitalAgrawal/CODE/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NitalAgrawal/CODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/NitalAgrawal/CODE/tree/master/1108-defanging-an-ip-address) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/NitalAgrawal/CODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1408-string-matching-in-an-array](https://github.com/NitalAgrawal/CODE/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/NitalAgrawal/CODE/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NitalAgrawal/CODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
