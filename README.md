@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/NitalAgrawal/CODE/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NitalAgrawal/CODE/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/NitalAgrawal/CODE/tree/master/1200-minimum-absolute-difference) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/NitalAgrawal/CODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NitalAgrawal/CODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-string-matching-in-an-array](https://github.com/NitalAgrawal/CODE/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/NitalAgrawal/CODE/tree/master/1528-shuffle-string) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/NitalAgrawal/CODE/tree/master/0835-image-overlap) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/NitalAgrawal/CODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/NitalAgrawal/CODE/tree/master/2965-find-missing-and-repeated-values) |
 ## String Matching
 |  |
