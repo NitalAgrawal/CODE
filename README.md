@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NitalAgrawal/CODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1323-maximum-69-number](https://github.com/NitalAgrawal/CODE/tree/master/1323-maximum-69-number) |
 | [2235-add-two-integers](https://github.com/NitalAgrawal/CODE/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/NitalAgrawal/CODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NitalAgrawal/CODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/NitalAgrawal/CODE/tree/master/0942-di-string-match) |
+| [1323-maximum-69-number](https://github.com/NitalAgrawal/CODE/tree/master/1323-maximum-69-number) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/NitalAgrawal/CODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
 |  |
