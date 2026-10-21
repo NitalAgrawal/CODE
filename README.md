@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NitalAgrawal/CODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2235-add-two-integers](https://github.com/NitalAgrawal/CODE/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/NitalAgrawal/CODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NitalAgrawal/CODE/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NitalAgrawal/CODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
