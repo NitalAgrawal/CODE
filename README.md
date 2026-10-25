@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/NitalAgrawal/CODE/tree/master/2390-removing-stars-from-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/NitalAgrawal/CODE/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/NitalAgrawal/CODE/tree/master/2678-number-of-senior-citizens) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/NitalAgrawal/CODE/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/NitalAgrawal/CODE/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/NitalAgrawal/CODE/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3019-number-of-changing-keys](https://github.com/NitalAgrawal/CODE/tree/master/3019-number-of-changing-keys) |
