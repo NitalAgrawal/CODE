@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/NitalAgrawal/CODE/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/NitalAgrawal/CODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/NitalAgrawal/CODE/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/NitalAgrawal/CODE/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/NitalAgrawal/CODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/NitalAgrawal/CODE/tree/master/2367-number-of-arithmetic-triplets) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/NitalAgrawal/CODE/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/NitalAgrawal/CODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/NitalAgrawal/CODE/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2278-percentage-of-letter-in-string](https://github.com/NitalAgrawal/CODE/tree/master/2278-percentage-of-letter-in-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/NitalAgrawal/CODE/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/NitalAgrawal/CODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/NitalAgrawal/CODE/tree/master/2390-removing-stars-from-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/NitalAgrawal/CODE/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/NitalAgrawal/CODE/tree/master/2094-finding-3-digit-even-numbers) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/NitalAgrawal/CODE/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/NitalAgrawal/CODE/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NitalAgrawal/CODE/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Prefix Sum
